@@ -1,7 +1,7 @@
 # Venture Funding with Deep Learning / Module 13 Challenge
 ---
 
-This is a code created with a Jupyter Lab Notebook used with the assitance of Pandas to create a deep learning model thats trained and tested in order to familiarize myselffr with the many uses of neural networks.
+This is a code created with a Jupyter Lab Notebook used with the assitance of Pandas to create a deep learning model thats trained and tested in order to familiarize myself with the many uses of neural network technologies. 
 ## Technologies
 
 This project uses python 3.7 with the following packages:
